@@ -23,5 +23,5 @@ function destructivelyDeleteFromObjectByKey(object, key){
   return copiedObject;
 }
 function  destructivelyDeleteFromObjectByKey(object, key){
-  
+
 }
